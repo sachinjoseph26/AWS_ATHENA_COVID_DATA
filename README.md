@@ -24,5 +24,4 @@
 ├── data/                         # Data folder
 ├── notebooks/                    # Jupyter notebooks for data exploration and preprocessing
 ├── scripts/                      # Scripts for data processing, analysis, and ML models
-├── README.md                     # Project documentation
-└── architecture_diagram.png      # Architecture diagram
+└── README.md                     # Project documentation
